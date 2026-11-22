@@ -1,0 +1,14 @@
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\bin\Release\net8.0\MSC.Server.exe
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\bin\Release\net8.0\MSC.Server.deps.json
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\bin\Release\net8.0\MSC.Server.runtimeconfig.json
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\bin\Release\net8.0\MSC.Server.dll
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\bin\Release\net8.0\MSC.Server.pdb
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\MSC.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\MSC.Server.AssemblyInfoInputs.cache
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\MSC.Server.AssemblyInfo.cs
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\MSC.Server.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\MSC.Server.dll
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\refint\MSC.Server.dll
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\MSC.Server.pdb
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\MSC.Server.genruntimeconfig.cache
+C:\Users\Kirill\Downloads\Multiplayer-0.2.0-dev\src\MSC.Server\obj\Release\net8.0\ref\MSC.Server.dll
